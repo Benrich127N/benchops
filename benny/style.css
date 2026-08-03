@@ -109,3 +109,31 @@ color: rgb(79, 130, 149);
 color: red;
 
 }
+
+.navbar {
+    background-color: rgba(101, 232, 234, 0.308);
+    padding: 0 30px;
+   
+
+}
+
+.navbar ul {
+  display: flex; 
+  justify-content: space-between;
+  gap : 30px;
+  height: 50px;
+ 
+  margin: 0;
+  
+    
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
